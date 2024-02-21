@@ -65,3 +65,17 @@ footer {
   min-height: 100%;
   padding: 10% 0%;
 }
+
+.container{
+  display: flex;
+  align-items:baseline;
+  margin-left: 40%;
+}
+
+#text{
+  margin-left: 25px;
+}
+
+.button{
+  position: relative;
+}
